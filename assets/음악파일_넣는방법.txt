@@ -1,0 +1,9 @@
+음악 재생 안내
+
+1. 사용 권한이 있는 Into the Battlefield MP3 음원을 준비하세요.
+2. 파일 이름을 into-the-battlefield.mp3 로 바꾸세요.
+3. 이 폴더(assets)에 넣으세요.
+4. index.html을 열고 오른쪽 아래 재생 버튼을 누르세요.
+5. GitHub Pages에 게시할 때도 assets 폴더를 함께 업로드하세요.
+
+저작권자의 허락 없이 음원을 공개 배포하면 권리 문제가 생길 수 있습니다.
